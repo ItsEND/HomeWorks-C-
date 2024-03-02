@@ -1,0 +1,27 @@
+[
+  {
+    "IdProduct": 1,
+    "NameProduct": "Яблоко",
+    "CostProduct": 100
+  },
+  {
+    "IdProduct": 2,
+    "NameProduct": "Помидор",
+    "CostProduct": 55
+  },
+  {
+    "IdProduct": 3,
+    "NameProduct": "Тортик",
+    "CostProduct": 1000
+  },
+  {
+    "IdProduct": 4,
+    "NameProduct": "Чай",
+    "CostProduct": 110
+  },
+  {
+    "IdProduct": 5,
+    "NameProduct": "Плюшки",
+    "CostProduct": 50
+  }
+]
